@@ -1,0 +1,60 @@
+{
+  "accuracy": 0.722242314647378,
+  "macro_f1": 0.5045975550527074,
+  "n_test": 2765,
+  "n_train": 11058,
+  "top_confused": [
+    {
+      "true": "Effective Date",
+      "pred": "Agreement Date",
+      "count": 57
+    },
+    {
+      "true": "Non-Transferable License",
+      "pred": "License Grant",
+      "count": 47
+    },
+    {
+      "true": "Uncapped Liability",
+      "pred": "Cap On Liability",
+      "count": 31
+    },
+    {
+      "true": "Irrevocable Or Perpetual License",
+      "pred": "License Grant",
+      "count": 30
+    },
+    {
+      "true": "Agreement Date",
+      "pred": "Effective Date",
+      "count": 28
+    },
+    {
+      "true": "Exclusivity",
+      "pred": "License Grant",
+      "count": 25
+    },
+    {
+      "true": "Affiliate License-Licensee",
+      "pred": "License Grant",
+      "count": 18
+    },
+    {
+      "true": "Notice Period To Terminate Renewal",
+      "pred": "Renewal Term",
+      "count": 18
+    },
+    {
+      "true": "Renewal Term",
+      "pred": "Notice Period To Terminate Renewal",
+      "count": 16
+    },
+    {
+      "true": "Affiliate License-Licensor",
+      "pred": "License Grant",
+      "count": 12
+    }
+  ],
+  "classes_below_5": [],
+  "seed": 42
+}
