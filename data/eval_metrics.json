@@ -1,0 +1,1770 @@
+{
+  "per_row": [
+    {
+      "span_id": "cuad:PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT __Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement3__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:ENERGOUSCORP_03_16_2017-EX-10.24-STRATEGIC ALLIANCE AGREEMENT__Non-Compete:2",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:WPPPLC_04_30_2020-EX-4.28-SERVICE AGREEMENT__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT__Non-Compete:2",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1)__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:InmodeLtd_20190729_F-1A_EX-10.9_11743243_EX-10.9_Manufacturing Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": 24.0,
+      "extracted": 24.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:MRSFIELDSORIGINALCOOKIESINC_01_29_1998-EX-10-FRANCHISE AGREEMENT__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate Agreement 2__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT__Non-Compete:0",
+      "dimension": "duration",
+      "gold": 24.0,
+      "extracted": 24.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT__Non-Compete:4",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:HOSPITALITYINVESTORSTRUST,INC_04_07_2014-EX-10.26-FRANCHISE AGREEMENT__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT__Non-Compete:1",
+      "dimension": "duration",
+      "gold": 24.0,
+      "extracted": 24.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement__Non-Compete:4",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement__Non-Compete:6",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT __Non-Compete:4",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement__Non-Compete:8",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:NakedBrandGroupInc_20150731_POS AM (on S-1)_EX-10.75_9196027_EX-10.75_Endorsement Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:PACIRA PHARMACEUTICALS, INC. - A_R STRATEGIC LICENSING, DISTRIBUTION AND MARKETING AGREEMENT __Non-Compete:0",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement3__Non-Compete:1",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:ENERGOUSCORP_03_16_2017-EX-10.24-STRATEGIC ALLIANCE AGREEMENT__Non-Compete:2",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement__Non-Compete:0",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:WPPPLC_04_30_2020-EX-4.28-SERVICE AGREEMENT__Non-Compete:1",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT__Non-Compete:1",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT__Non-Compete:2",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT (1)__Non-Compete:0",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:InmodeLtd_20190729_F-1A_EX-10.9_11743243_EX-10.9_Manufacturing Agreement__Non-Compete:0",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:IGENEBIOTECHNOLOGYINC_05_13_2003-EX-1-JOINT VENTURE AGREEMENT__Non-Compete:1",
+      "dimension": "geo",
+      "gold": {
+        "jurisdictions": [
+          "worldwide"
+        ],
+        "breadth": 200
+      },
+      "extracted": {
+        "jurisdictions": [
+          "worldwide"
+        ],
+        "breadth": 200
+      },
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:MRSFIELDSORIGINALCOOKIESINC_01_29_1998-EX-10-FRANCHISE AGREEMENT__Non-Compete:0",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate Agreement 2__Non-Compete:0",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement__Non-Compete:1",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT__Non-Compete:0",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT__Non-Compete:4",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:HOSPITALITYINVESTORSTRUST,INC_04_07_2014-EX-10.26-FRANCHISE AGREEMENT__Non-Compete:1",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:Quaker Chemical Corporation - NON COMPETITION AND NON SOLICITATION AGREEMENT__Non-Compete:1",
+      "dimension": "geo",
+      "gold": {
+        "jurisdictions": [
+          "worldwide"
+        ],
+        "breadth": 200
+      },
+      "extracted": {
+        "jurisdictions": [
+          "worldwide"
+        ],
+        "breadth": 200
+      },
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement__Non-Compete:0",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement__Non-Compete:4",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement__Non-Compete:6",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Non-Compete:0",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Non-Compete:1",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT __Non-Compete:4",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement__Non-Compete:8",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:NakedBrandGroupInc_20150731_POS AM (on S-1)_EX-10.75_9196027_EX-10.75_Endorsement Agreement__Non-Compete:0",
+      "dimension": "geo",
+      "gold": null,
+      "extracted": {
+        "jurisdictions": [],
+        "breadth": 0
+      },
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT__Cap On Liability:0",
+      "dimension": "amount",
+      "gold": 5000000.0,
+      "extracted": 5000000.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:Zounds Hearing, Inc. - MANUFACTURING DESIGN MARKETING AGREEMENT__Cap On Liability:0",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:SEPARATEACCOUNTIIOFAGL_05_02_2011-EX-99.(J)(4)-UNCONDITIONAL CAPITAL MAINTENANCE AGREEMENT__Cap On Liability:1",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement__Cap On Liability:2",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:NANOPHASETECHNOLOGIESCORP_11_01_2005-EX-99.1-DISTRIBUTOR AGREEMENT__Cap On Liability:3",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:VERTICALNETINC_04_01_2002-EX-10.19-MAINTENANCE AND SUPPORT AGREEMENT__Cap On Liability:4",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:HUBEIMINKANGPHARMACEUTICALLTD_09_19_2006-EX-10.1-OUTSOURCING AGREEMENT__Cap On Liability:0",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement1__Cap On Liability:0",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:MRSFIELDSORIGINALCOOKIESINC_01_29_1998-EX-10-FRANCHISE AGREEMENT__Cap On Liability:0",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:Magenta Therapeutics, Inc. - Master Development and Manufacturing Agreement__Cap On Liability:1",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:SMITHELECTRICVEHICLESCORP_04_04_2012-EX-10.26-FLEET MAINTENANCE AGREEMENT__Cap On Liability:1",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:AULAMERICANUNITTRUST_04_24_2020-EX-99.8.77-SERVICING AGREEMENT__Cap On Liability:0",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT__Cap On Liability:11",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT__Cap On Liability:1",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:QuantumGroupIncFl_20090120_8-K_EX-99.2_3672910_EX-99.2_Hosting Agreement__Cap On Liability:6",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:ImineCorp_20180725_S-1_EX-10.5_11275970_EX-10.5_Distributor Agreement__Cap On Liability:2",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT__Cap On Liability:0",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT__Cap On Liability:1",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:BravatekSolutionsInc_20170418_8-K_EX-10.1_10205739_EX-10.1_Reseller Agreement__Cap On Liability:0",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement__Cap On Liability:0",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:BLUEHILLSBANCORP,INC_05_20_2014-EX-1.1-AGENCY AGREEMENT__Cap On Liability:0",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:MANUFACTURERSSERVICESLTD_06_05_2000-EX-10.14-OUTSOURCING AGREEMENT__Cap On Liability:2",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:MOELIS_CO_03_24_2014-EX-10.19-STRATEGIC ALLIANCE AGREEMENT__Cap On Liability:2",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:IbioInc_20200313_8-K_EX-10.1_12052678_EX-10.1_Development Agreement__Cap On Liability:0",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:ParatekPharmaceuticalsInc_20170505_10-KA_EX-10.29_10323872_EX-10.29_Outsourcing Agreement__Cap On Liability:3",
+      "dimension": "amount",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Notice Period To Terminate Renewal:0",
+      "dimension": "notice",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:FTENETWORKS,INC_02_18_2016-EX-99.4-STRATEGIC ALLIANCE AGREEMENT__Notice Period To Terminate Renewal:0",
+      "dimension": "notice",
+      "gold": 30.0,
+      "extracted": 30.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:INTRICONCORP_03_10_2009-EX-10.22-Strategic Alliance Agreement__Termination For Convenience:0",
+      "dimension": "notice",
+      "gold": 91.32,
+      "extracted": 91.32000000000001,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:NICELTD_06_26_2003-EX-4.5-OUTSOURCING AGREEMENT__Termination For Convenience:1",
+      "dimension": "notice",
+      "gold": 45.0,
+      "extracted": 45.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:Principal Life Insurance Company - Broker Dealer Marketing and Servicing Agreement__Termination For Convenience:0",
+      "dimension": "notice",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:MEDIWOUNDLTD_01_15_2014-EX-10.6-SUPPLY AGREEMENT__Termination For Convenience:1",
+      "dimension": "notice",
+      "gold": 182.64,
+      "extracted": 182.64000000000001,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:VARIABLESEPARATEACCOUNT_04_30_2014-EX-13.C-UNCONDITIONAL CAPITAL MAINTENANCE AGREEMENT__Notice Period To Terminate Renewal:0",
+      "dimension": "notice",
+      "gold": 30.0,
+      "extracted": 30.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:AzulSa_20170303_F-1A_EX-10.3_9943903_EX-10.3_Maintenance Agreement1__Termination For Convenience:1",
+      "dimension": "notice",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:REWALKROBOTICSLTD_07_10_2014-EX-10.2-STRATEGIC ALLIANCE AGREEMENT__Termination For Convenience:0",
+      "dimension": "notice",
+      "gold": 60.0,
+      "extracted": 60.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.34_11788308_EX-10.34_Sponsorship Agreement__Termination For Convenience:0",
+      "dimension": "notice",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Termination For Convenience:0",
+      "dimension": "notice",
+      "gold": 180.0,
+      "extracted": 180.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:EcoScienceSolutionsInc_20171117_8-K_EX-10.1_10956472_EX-10.1_Endorsement Agreement__Notice Period To Terminate Renewal:0",
+      "dimension": "notice",
+      "gold": 30.0,
+      "extracted": 30.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:ENTERTAINMENTGAMINGASIAINC_02_15_2005-EX-10.5-DISTRIBUTOR AGREEMENT__Termination For Convenience:0",
+      "dimension": "notice",
+      "gold": 90.0,
+      "extracted": 90.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement__Notice Period To Terminate Renewal:0",
+      "dimension": "notice",
+      "gold": 60.0,
+      "extracted": 60.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement__Termination For Convenience:0",
+      "dimension": "notice",
+      "gold": 60.0,
+      "extracted": 60.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate Agreement__Termination For Convenience:0",
+      "dimension": "notice",
+      "gold": 14.0,
+      "extracted": 14.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:AFSALABANCORPINC_08_01_1996-EX-1.1-AGENCY AGREEMENT__Termination For Convenience:0",
+      "dimension": "notice",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement__Termination For Convenience:0",
+      "dimension": "notice",
+      "gold": 547.92,
+      "extracted": 547.9200000000001,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:RangeResourcesLouisianaInc_20150417_8-K_EX-10.5_9045501_EX-10.5_Transportation Agreement__Notice Period To Terminate Renewal:0",
+      "dimension": "notice",
+      "gold": 30.0,
+      "extracted": 30.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:AURASYSTEMSINC_06_16_2010-EX-10.25-STRATEGIC ALLIANCE AGREEMENT__Notice Period To Terminate Renewal:0",
+      "dimension": "notice",
+      "gold": 90.0,
+      "extracted": 90.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:UAGHINC_04_14_2004-EX-10.18-MAINTENANCE AGREEMENT__Notice Period To Terminate Renewal:0",
+      "dimension": "notice",
+      "gold": 30.0,
+      "extracted": 30.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:HEALTHGATEDATACORP_11_24_1999-EX-10.1-HOSTING AND MANAGEMENT AGREEMENT - Escrow Agreement__Termination For Convenience:1",
+      "dimension": "notice",
+      "gold": 60.0,
+      "extracted": 60.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:DYNTEKINC_07_30_1999-EX-10-ONLINE HOSTING AGREEMENT__Termination For Convenience:0",
+      "dimension": "notice",
+      "gold": 60.0,
+      "extracted": 60.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:ASIANDRAGONGROUPINC_08_11_2005-EX-10.5-Reseller Agreement__Notice Period To Terminate Renewal:0",
+      "dimension": "notice",
+      "gold": 60.0,
+      "extracted": 60.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding Agreement_ Agency Agreement__Notice Period To Terminate Renewal:0",
+      "dimension": "notice",
+      "gold": 30.0,
+      "extracted": 30.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "State of Illinois",
+      "extracted": "State of Illinois",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:MetLife, Inc. - Remarketing Agreement__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "State of New York",
+      "extracted": "STATE OF NEW YORK",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "State of California",
+      "extracted": "State of California",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:MSCIINC_02_28_2008-EX-10.10-__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "State of New York",
+      "extracted": "State of New York",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:OASYSMOBILE,INC_07_05_2001-EX-10.17-OUTSOURCING AGREEMENT__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "State of California",
+      "extracted": "State of California",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:ELECTRAMECCANICA VEHICLES CORP. - Manufacturing Agreement__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "Hong Kong",
+      "extracted": "Hong Kong",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:BICYCLETHERAPEUTICSPLC_03_10_2020-EX-10.11-SERVICE AGREEMENT__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "England and Wales",
+      "extracted": "England and Wales and the parties to this Agreement submit to the exclusive jurisdiction of the Court",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:PACIFICSYSTEMSCONTROLTECHNOLOGYINC_08_24_2000-EX-10.53-SPONSORSHIP AGREEMENT__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": [
+        "State of California",
+        "Hong Kong"
+      ],
+      "extracted": "State of California and the laws of Hong Kong",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement__Governing Law:1",
+      "dimension": "govlaw",
+      "gold": "State of South Dakota",
+      "extracted": "State of South Dakota",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "Delaware",
+      "extracted": "Delaware",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:HEMISPHERX - Sales, Marketing, Distribution, and Supply Agreement__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "State of Delaware",
+      "extracted": "State of Delaware",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT__Governing Law:1",
+      "dimension": "govlaw",
+      "gold": "State of California",
+      "extracted": "State of California",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:FulucaiProductionsLtd_20131223_10-Q_EX-10.9_8368347_EX-10.9_Content License Agreement__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "State of Florida",
+      "extracted": "State of Florida",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:SUCAMPOPHARMACEUTICALS,INC_11_04_2015-EX-10.2-STRATEGIC ALLIANCE AGREEMENT__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "Japan",
+      "extracted": "Japan",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement__Governing Law:1",
+      "dimension": "govlaw",
+      "gold": "State of New York",
+      "extracted": "State of New York",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:XENCORINC_10_25_2013-EX-10.24-COLLABORATION AGREEMENT (3)__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "State of New York",
+      "extracted": "State of New York",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:GOLDRESOURCECORP_12_11_2008-EX-10.1-STRATEGIC ALLIANCE AGREEMENT__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": [
+        "State of New York",
+        "United States"
+      ],
+      "extracted": "State of New York and the laws of the United States",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:ACCELERATEDTECHNOLOGIESHOLDINGCORP_04_24_2003-EX-10.13-JOINT VENTURE AGREEMENT__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "Commonwealth of Pennsylvania",
+      "extracted": "Commonwealth of Pennsylvania",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:VIRTUALSCOPICS,INC_11_12_2010-EX-10.1-STRATEGIC ALLIANCE AGREEMENT__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "State of Delaware",
+      "extracted": "State of Delaware",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:EcoScienceSolutionsInc_20180406_8-K_EX-10.1_11135398_EX-10.1_Sponsorship Agreement__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "State of Florida",
+      "extracted": "State of Florida",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:OPTIMIZEDTRANSPORTATIONMANAGEMENT,INC_07_26_2000-EX-6.6-DISTRIBUTOR AGREEMENT__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "State of Texas",
+      "extracted": "State of Texas",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:NEXSTARFINANCEHOLDINGSINC_03_27_2002-EX-10.26-OUTSOURCING AGREEMENT__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "Maryland",
+      "extracted": "Maryland",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:SPIENERGYCO,LTD_03_09_2011-EX-99.5-OPERATIONS AND MAINTENANCE AGREEMENT__Governing Law:1",
+      "dimension": "govlaw",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:SteelVaultCorp_20081224_10-K_EX-10.16_3074935_EX-10.16_Affiliate Agreement__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "State of Virginia",
+      "extracted": "State of Virginia",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement1__Governing Law:0",
+      "dimension": "govlaw",
+      "gold": "State of Illinois",
+      "extracted": "State of Illinois",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:train:1578",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:train:1647",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:train:3675",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:train:12902",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:train:16811",
+      "dimension": "indemnity",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "ledgar:train:24247",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:train:25406",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:train:25592",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:train:25853",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": null,
+      "attempted": false,
+      "correct": false
+    },
+    {
+      "span_id": "ledgar:train:26310",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:train:32901",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:train:33071",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:train:33155",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:train:35743",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:train:38499",
+      "dimension": "indemnity",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "ledgar:train:40343",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:train:49547",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:train:50979",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:train:58070",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:validation:1897",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:test:3871",
+      "dimension": "indemnity",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "ledgar:test:7140",
+      "dimension": "indemnity",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "ledgar:test:7331",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:test:8169",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "ledgar:test:9679",
+      "dimension": "indemnity",
+      "gold": "unilateral",
+      "extracted": "unilateral",
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:AMERICASSHOPPINGMALLINC_12_10_1999-EX-10.2-SITE DEVELOPMENT AND HOSTING AGREEMENT__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:BIOAMBERINC_04_10_2013-EX-10.34-DEVELOPMENT AGREEMENT (1)__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement1__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:CHEETAHMOBILEINC_04_22_2014-EX-10.43-Cooperation Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement__Non-Compete:7",
+      "dimension": "duration",
+      "gold": 48.0,
+      "extracted": 48.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:PaperexchangeComInc_20000322_S-1A_EX-10.4_5202103_EX-10.4_Co-Branding Agreement__Non-Compete:5",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:ENTERTAINMENTGAMINGASIAINC_02_15_2005-EX-10.5-DISTRIBUTOR AGREEMENT__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:FuseMedicalInc_20190321_10-K_EX-10.43_11575454_EX-10.43_Distributor Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:NEONSYSTEMSINC_03_01_1999-EX-10.5-DISTRIBUTOR AGREEMENT_New__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:AIRTECHINTERNATIONALGROUPINC_05_08_2000-EX-10.4-FRANCHISE AGREEMENT__Non-Compete:2",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content License Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:AgapeAtpCorp_20191202_10-KA_EX-10.1_11911128_EX-10.1_Supply Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:SENMIAOTECHNOLOGYLTD_02_19_2019-EX-10.5-Collaboration Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:NeoformaInc_19991202_S-1A_EX-10.26_5224521_EX-10.26_Co-Branding Agreement__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:BerkshireHillsBancorpInc_20120809_10-Q_EX-10.16_7708169_EX-10.16_Endorsement Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:CYBERIANOUTPOSTINC_07_09_1998-EX-10.13-PROMOTION AGREEMENT__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement__Non-Compete:4",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement__Non-Compete:2",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT__Non-Compete:3",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement__Non-Compete:7",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:BIOAMBERINC_04_10_2013-EX-10.34-DEVELOPMENT AGREEMENT (1)__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:Array BioPharma Inc. - LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT__Non-Compete:3",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:MusclepharmCorp_20170208_10-KA_EX-10.38_9893581_EX-10.38_Co-Branding Agreement__Non-Compete:3",
+      "dimension": "duration",
+      "gold": 12.0,
+      "extracted": 12.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement__Non-Compete:11",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:Monsanto Company - SECOND A_R EXCLUSIVE AGENCY AND MARKETING AGREEMENT __Non-Compete:2",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:TomOnlineInc_20060501_20-F_EX-4.46_749700_EX-4.46_Co-Branding Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": 60.0,
+      "extracted": 60.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement__Non-Compete:7",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:AMERICASSHOPPINGMALLINC_12_10_1999-EX-10.2-SITE DEVELOPMENT AND HOSTING AGREEMENT__Non-Compete:1",
+      "dimension": "duration",
+      "gold": 24.0,
+      "extracted": 24.0,
+      "attempted": true,
+      "correct": true
+    },
+    {
+      "span_id": "cuad:InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding Agreement__Non-Compete:6",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:GAINSCOINC_01_21_2010-EX-10.41-SPONSORSHIP AGREEMENT__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate Agreement 2__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:RemarkHoldingsInc_20081114_10-Q_EX-10.24_2895649_EX-10.24_Content License Agreement__Non-Compete:2",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:ClickstreamCorp_20200330_1-A_EX1A-6 MAT CTRCT_12089935_EX1A-6 MAT CTRCT_Development Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:BEYONDCOMCORP_08_03_2000-EX-10.2-CO-HOSTING AGREEMENT__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:WASTE2ENERGYHOLDINGS,INC_06_03_2010-EX-10.2-STRATEGIC ALLIANCE AGREEMENT__Non-Compete:1",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:LegacyEducationAllianceInc_20141110_8-K_EX-10.9_8828866_EX-10.9_Endorsement Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:CoherusBiosciencesInc_20200227_10-K_EX-10.29_12021376_EX-10.29_Development Agreement__Non-Compete:2",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:DovaPharmaceuticalsInc_20181108_10-Q_EX-10.2_11414857_EX-10.2_Promotion Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:KIROMICBIOPHARMA,INC_05_11_2020-EX-10.23-CONSULTING AGREEMENT__Non-Compete:3",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:GOOSEHEADINSURANCE,INC_04_02_2018-EX-10.6-Franchise Agreement__Non-Compete:2",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development Agreement__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    },
+    {
+      "span_id": "cuad:LEJUHOLDINGSLTD_03_12_2014-EX-10.34-INTERNET CHANNEL COOPERATION AGREEMENT__Non-Compete:0",
+      "dimension": "duration",
+      "gold": null,
+      "extracted": null,
+      "attempted": false,
+      "correct": null
+    }
+  ],
+  "summary": {
+    "dimensions": {
+      "duration": {
+        "n": 75,
+        "n_stated": 7,
+        "not_stated_rate": 0.9066666666666666,
+        "attempted": 7,
+        "correct": 7,
+        "precision": 1.0,
+        "unfixable_wrong_on_stated": 0.0,
+        "unfixable_wrong_n": 0
+      },
+      "geo": {
+        "n": 25,
+        "n_stated": 2,
+        "not_stated_rate": 0.92,
+        "attempted": 2,
+        "correct": 2,
+        "precision": 1.0,
+        "unfixable_wrong_on_stated": 0.0,
+        "unfixable_wrong_n": 0
+      },
+      "amount": {
+        "n": 25,
+        "n_stated": 1,
+        "not_stated_rate": 0.96,
+        "attempted": 1,
+        "correct": 1,
+        "precision": 1.0,
+        "unfixable_wrong_on_stated": 0.0,
+        "unfixable_wrong_n": 0
+      },
+      "notice": {
+        "n": 25,
+        "n_stated": 20,
+        "not_stated_rate": 0.2,
+        "attempted": 20,
+        "correct": 20,
+        "precision": 1.0,
+        "unfixable_wrong_on_stated": 0.0,
+        "unfixable_wrong_n": 0
+      },
+      "govlaw": {
+        "n": 25,
+        "n_stated": 24,
+        "not_stated_rate": 0.04,
+        "attempted": 24,
+        "correct": 24,
+        "precision": 1.0,
+        "unfixable_wrong_on_stated": 0.0,
+        "unfixable_wrong_n": 0
+      },
+      "indemnity": {
+        "n": 25,
+        "n_stated": 21,
+        "not_stated_rate": 0.16,
+        "attempted": 20,
+        "correct": 20,
+        "precision": 1.0,
+        "unfixable_wrong_on_stated": 0.047619047619047616,
+        "unfixable_wrong_n": 1
+      }
+    },
+    "kill": {
+      "total_gold_stated": 75,
+      "total_unfixable_wrong": 1,
+      "rate": 0.013333333333333334,
+      "threshold": 0.3,
+      "verdict": "PASS"
+    }
+  }
+}
